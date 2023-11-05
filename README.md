@@ -18,9 +18,11 @@ https://helion.pl/ksiazki/czysty-kod-podrecznik-dobrego-programisty-robert-c-mar
 
 https://helion.pl/ksiazki/java-w-24-godziny-wydanie-viii-rogers-cadenhead,jav24h.htm#format/d
 
-Nowe wydanie 2022 Head First java  
+Nowe wydanie 2022 Head First java 
+
 https://helion.pl/ksiazki/head-first-javascript-edycja-polska-michael-morrison,hfjsc.htm#format/e
 
 Stare wydanie
+
 https://helion.pl/ksiazki/head-first-java-edycja-polska-rusz-glowa-kathy-sierra-bert-bates,hfjava.htm#section1_shift
 
