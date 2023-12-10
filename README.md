@@ -1,3 +1,9 @@
+https://forms.office.com/Pages/ResponsePage.aspx?id=9m29-UnEH0irtTe9A2vrdr-CcFYfY7NFswqnSyqWCQxUQzZOUFRYQ1NURlhJMUFGT0dPUE9LVTJMWSQlQCNjPTEu
+
+
+
+
+
 # Polecane zadania
 Zadania w formie uzupełniania brakujących elementów (wszystko poza metodami, klasami i obietkami):
 https://www.w3schools.com/java/exercise.asp
