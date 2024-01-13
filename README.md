@@ -14,16 +14,24 @@ Zad 2. Trening xpath – poziomy 1-17 (uwaga bo jest 1 bug)
 http://www.seleniumui.moderntester.pl/xpath-diner/index.html
 
 
+Zad 3. Wejdź na stronę:
+
+http://146.59.32.4/index.php?controller=authentication&back=my-account
+
+Z pomocą devtools znajdz stwórz dwa selektory, które znajdą dokładnie jeden element dla:
+- email input
+- przycisk ’Sign In’
+
+Zad 4. Wejdź na stronę: http://www.seleniumui.moderntester.pl/
+
+Stwórz selektor, który znajdzie listę 13 elementów (wiersze tabeli) przechowujących dane o poszczególnych górach.
+
+
+
 ściąga z lokatorami:
 
 https://www.red-gate.com/simple-talk/wp-content/uploads/imported/1269-Locators_table_1_0_2.pdf
 
-
-
-Część 2:
-13-14.01
-27-28.01
-10-11.02
 
 
 
