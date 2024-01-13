@@ -23,7 +23,9 @@ Z pomocą devtools znajdz stwórz dwa selektory, które znajdą dokładnie jeden
 - przycisk ’Sign In’
 
 
-Zad 4. Wejdź na stronę: http://www.seleniumui.moderntester.pl/
+Zad 4. Wejdź na stronę:
+
+http://www.seleniumui.moderntester.pl/
 
 Stwórz selektor, który znajdzie listę 13 elementów (wiersze tabeli) przechowujących dane o poszczególnych górach.
 
