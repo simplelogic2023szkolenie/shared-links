@@ -1,12 +1,16 @@
-Cześć 2:
+### Cześć 2:
+
 strona do ćwiczeń:
+
 http://seleniumui.moderntester.pl/
 
 
 Zad 1. Trening css – poziomy 1-14 i 27-32
+
 http://www.seleniumui.moderntester.pl/css-diner-develop/index.html
 
 Zad 2. Trening xpath – poziomy 1-17 (uwaga bo jest 1 bug)
+
 http://www.seleniumui.moderntester.pl/xpath-diner/index.html
 
 
