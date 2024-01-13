@@ -14,7 +14,9 @@ Zad 2. Trening xpath – poziomy 1-17 (uwaga bo jest 1 bug)
 http://www.seleniumui.moderntester.pl/xpath-diner/index.html
 
 
+ściąga z lokatorami:
 
+https://www.red-gate.com/simple-talk/wp-content/uploads/imported/1269-Locators_table_1_0_2.pdf
 
 
 
