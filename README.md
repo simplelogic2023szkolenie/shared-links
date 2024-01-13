@@ -22,12 +22,13 @@ Z pomocą devtools znajdz stwórz dwa selektory, które znajdą dokładnie jeden
 - email input
 - przycisk ’Sign In’
 
+
 Zad 4. Wejdź na stronę: http://www.seleniumui.moderntester.pl/
 
 Stwórz selektor, który znajdzie listę 13 elementów (wiersze tabeli) przechowujących dane o poszczególnych górach.
 
 
-
+---
 ściąga z lokatorami:
 
 https://www.red-gate.com/simple-talk/wp-content/uploads/imported/1269-Locators_table_1_0_2.pdf
