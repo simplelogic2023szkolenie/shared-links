@@ -1,8 +1,15 @@
+http://146.59.32.4/index.php?controller=authentication&back=my-account
+
 ### Cześć 2:
 
 strona do ćwiczeń:
 
 http://seleniumui.moderntester.pl/
+
+
+
+
+
 
 
 Zad 1. Trening css – poziomy 1-14 i 27-32
